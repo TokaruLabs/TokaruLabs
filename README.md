@@ -9,7 +9,7 @@
 ## 🛠️ My Skills
 
 ### <img src="https://imgur.com/FfZgWhb.png" width="20"> Programming Languages
-- <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" width="50">
+- <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" width="50">
 - <img src="https://img.icons8.com/?size=100&id=at2DODSyQznb&format=png&color=000000" width="50">
 - <img src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" width="50">
 - <img src="https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000" width="50">
